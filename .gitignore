@@ -1,0 +1,8 @@
+# Bytecode e cache
+__pycache__/
+
+# Ambientes virtuais
+.venv/
+
+# Arquivos de log
+*.log
